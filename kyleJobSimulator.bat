@@ -8,7 +8,7 @@ ECHO.
 ECHO.
 
 set KYLETASK=
-set /P KYLETASK=WHAT DO I NEED TO DO? %=%
+set /P KYLETASK=So, um. Like, yeah. What is it you need me to...do? %=%
 ECHO.
 ECHO.
 
@@ -28,7 +28,7 @@ set /P KYLETASK=What was I supposed to do again? %=%
 ECHO.
 ECHO.
 
-ECHO OK, got it, you want me to %KYLETASK%
+ECHO OK, I knew that you want me to %KYLETASK%
 ping 127.0.0.1 > nul
 ECHO.
 ECHO.
@@ -40,11 +40,11 @@ ECHO.
 ECHO.
 
 set HOWDOI=
-set /P HOWDOI=How do I %KYLETASK%, again? %=%
+set /P HOWDOI=Wait, so how do I %KYLETASK%, again? %=%
 ECHO.
 ECHO.
 
-ECHO OK, got it, you want me to %KYLETASK% by doing it %HOWDOI%
+ECHO OK, got it, you want me to %KYLETASK% by %HOWDOI%
 ping 127.0.0.1 > nul
 ECHO.
 ECHO.
@@ -62,13 +62,13 @@ ping 127.0.0.1 > nul
 ECHO.
 ECHO.
 
-ECHO GUYS I'VE GOT TO GO
+ECHO GUYS I'VE GOT TO GO *fistbump*
 @ECHO OFF
 ping 127.0.0.1 > nul
 ECHO.
 ECHO.
 
-ECHO THANK YOU FOR PLAYING KYLE JOB SIMULATOR *fistbump*
+ECHO THANK YOU FOR PLAYING KYLE JOB SIMULATOR by RAMBLERS SOFTWARE
 @ECHO OFF
 ping 127.0.0.1 > nul
 ECHO.
